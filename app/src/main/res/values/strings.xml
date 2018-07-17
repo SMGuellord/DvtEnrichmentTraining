@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DvtEnrichmentTraining</string>
+    <string name="profileImageDescription">Profile image</string>
+    <string name= "helloKotlin">Hello Kotlin!</string>
+</resources>
